@@ -28,4 +28,4 @@ Python, NLTK, VADER, TextBlob, Gensim, scikit-learn, Matplotlib
 
 
 ## Visualization
-![t-SNE Word Embeddings](plots/word2vec_tsne.png)
+![t-SNE Word Embeddings](word2vec_tsne.png)
