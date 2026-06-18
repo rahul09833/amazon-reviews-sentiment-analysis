@@ -25,3 +25,7 @@ Python, NLTK, VADER, TextBlob, Gensim, scikit-learn, Matplotlib
 | `sentiment_analysis.ipynb` | VADER + TextBlob analysis |
 | `word2vec.ipynb` | Word embedding training |
 | `visualize_embedding.ipynb` | t-SNE visualization |
+
+
+## Visualization
+![t-SNE Word Embeddings](plots/word2vec_tsne.png)
